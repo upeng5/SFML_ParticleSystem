@@ -37,7 +37,11 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\Desktop\particle_example.gif">
+    <None Include=".gitattributes" />
+    <None Include=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="particle_example.gif">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
